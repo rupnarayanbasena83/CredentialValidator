@@ -47,18 +47,10 @@
 		DB2FBB372C7D880A002F2C9F /* CredentialValidator */ = {
 			isa = PBXGroup;
 			children = (
-				DB2FBB412C7D905D002F2C9F /* Classes */,
-			);
-			path = CredentialValidator;
-			sourceTree = "<group>";
-		};
-		DB2FBB412C7D905D002F2C9F /* Classes */ = {
-			isa = PBXGroup;
-			children = (
 				DB2FBB382C7D880A002F2C9F /* CredentialValidator.h */,
 				DB2FBB3F2C7D8825002F2C9F /* CredentialValidator.swift */,
 			);
-			path = Classes;
+			path = CredentialValidator;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

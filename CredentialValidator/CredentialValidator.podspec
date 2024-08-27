@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "CredentialValidator"
-  spec.version      = "1.0.0"
+  spec.version      = "develop"
   spec.summary      = "A short description of Validator."
   spec.description  = "it is to validate the email and password credential using regex"
   spec.homepage     = "https://github.com/rupnarayanbasena83/CredentialValidator"
